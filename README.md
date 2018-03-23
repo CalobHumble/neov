@@ -1,5 +1,5 @@
 # neov
-![Version](https://img.shields.io/badge/version-0.0.1-402244.svg?style=flat-square)
+![Version](https://img.shields.io/badge/version-0.0.1-5b3a67.svg?style=flat-square)
 
 > NodeJS, Electron, Object Viewer
 
