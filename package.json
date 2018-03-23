@@ -11,5 +11,10 @@
     "url": "git.okyn.pro/calobhumble/noev.git"
   },
   "author": "Calob Humble <humble.calob@protonmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@jscad/scad-api": "^0.5.1",
+    "electron": "^1.8.4",
+    "three": "^0.91.0"
+  }
 }
