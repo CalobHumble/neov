@@ -1,0 +1,15 @@
+{
+  "name": "neov",
+  "version": "0.0.1",
+  "description": "NodeJS Electron Object Viewer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo 'No Tests'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git.okyn.pro/calobhumble/noev.git"
+  },
+  "author": "Calob Humble <humble.calob@protonmail.com>",
+  "license": "MIT"
+}
