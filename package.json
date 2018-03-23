@@ -2,9 +2,9 @@
   "name": "neov",
   "version": "0.0.1",
   "description": "NodeJS Electron Object Viewer",
-  "main": "app.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo 'No Tests'"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
